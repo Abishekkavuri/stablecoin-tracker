@@ -4,7 +4,7 @@
 #include <string>
 
 bool send_email_alert(const std::string& subject, const std::string& body) {
-    std::string api_key = "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";  // ⚠️ Your real API key
+    // std::string api_key = "SG.gD7U3VWESYa64qq_BVLtig.VQlinC-sQIO30HHJRfBFJNZ13eVBfdvIrlbUoy1UY";  // ⚠️ Your real API key
     std::string to_email = "abishekakavuri@gmail.com";
     std::string from_email = "abhiabishek3354@gmail.com";
 
