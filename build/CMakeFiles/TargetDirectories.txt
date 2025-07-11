@@ -1,0 +1,3 @@
+C:/Users/abhia/Desktop/stablecoin-tracker/build/CMakeFiles/tracker.dir
+C:/Users/abhia/Desktop/stablecoin-tracker/build/CMakeFiles/edit_cache.dir
+C:/Users/abhia/Desktop/stablecoin-tracker/build/CMakeFiles/rebuild_cache.dir
